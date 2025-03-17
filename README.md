@@ -5,21 +5,21 @@ The Palnt & Co. wants to make a report and enhance their sales, quantity and gro
 ## Dataset
 - <a href="https://docs.google.com/spreadsheets/d/1Qs61LBUxIN50Cl5IO4m6u2Y2ODhs0pqNhAqhUxVPO_Q/edit?usp=sharing">Dataset</a>
 
-## Findings
+# Findings
 
-# Overall Sales Performance
+## Overall Sales Performance
 
 Year-to-Date (YTD) Sales: $13.00M
 Previous Year-to-Date (PYTD) Sales: $13.51M
 Sales Decrease: -$512.26K (YTD vs PYTD)
 Gross Profit Margin (GP%): 39.62%
 
-# Underperforming Markets (Bottom 10 Countries - YTD vs PYTD)
+## Underperforming Markets (Bottom 10 Countries - YTD vs PYTD)
 
 China has the highest negative impact (-$760.40K).
 Other significant declines in Sweden (-$240.09K), France (-$149.78K), and Norway (-$118.66K).
 
-## Key Insights
+# Key Insights
 
 ✅ Market Strategy Review: China, Sweden, and France need targeted sales recovery strategies.
 ✅ Boost Low Performing Months: Investigate and optimize sales in June and December.
