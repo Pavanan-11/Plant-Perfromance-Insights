@@ -22,7 +22,10 @@ Other significant declines in Sweden (-$240.09K), France (-$149.78K), and Norway
 # Key Insights
 
 ✅ Market Strategy Review: China, Sweden, and France need targeted sales recovery strategies.
+
 ✅ Boost Low Performing Months: Investigate and optimize sales in June and December.
+
 ✅ Product Focus: Identify best-performing categories and scale profitable product lines.
+
 ✅ Profitability Improvement: Improve cost control and pricing strategies to enhance GP%.
 
