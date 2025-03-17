@@ -30,6 +30,6 @@ Other significant declines in Sweden (-$240.09K), France (-$149.78K), and Norway
 ✅ Profitability Improvement: Improve cost control and pricing strategies to enhance GP%.
 
 # Dashboard Insight
-- <a href="https://raw.githubusercontent.com/Pavanan-11/Plant-Perfromance-Insights/7ae4e70781b0f8f18e01f250cc38171be0a3a2cc/Plant%20Dashboard.jpg">
+- <a href="https://raw.githubusercontent.com/Pavanan-11/Plant-Perfromance-Insights/7ae4e70781b0f8f18e01f250cc38171be0a3a2cc/Plant%20Dashboard.jpg">Dashboard</a>
 
 
