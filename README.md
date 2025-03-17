@@ -1,2 +1,3 @@
-# Plant-Perfromance-Insights
-I have created an interactive Power BI report designed to analyze key metrics related to plant operations. It provides insights into various aspects such as production efficiency, energy consumption, equipment performance, and other critical KPIs. 
+# Plant & CO. Data-Analysis (Interactive Dashboard creation using Power BI)
+## Project Objective 
+The Palnt & Co. wants to make a report and enhance their sales, quantity and gross profit in 2023 & 2024 , with year to date and previous year to date datasets (YTD vs PYTD).
