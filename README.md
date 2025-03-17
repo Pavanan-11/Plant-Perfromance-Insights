@@ -29,3 +29,7 @@ Other significant declines in Sweden (-$240.09K), France (-$149.78K), and Norway
 
 ✅ Profitability Improvement: Improve cost control and pricing strategies to enhance GP%.
 
+# Dashboard Insight
+
+
+
